@@ -11,7 +11,7 @@
 
 #include <stdint.h>
 
-#include "Porcupine_DE.h"
+#include "Porcupine_FR.h"
 
 #if defined(ARDUINO_ARDUINO_NANO33BLE)
 
